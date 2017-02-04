@@ -11,11 +11,14 @@
 <!--</resources>-->
 <resources>
     <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
         <item name="android:textColorPrimary">#000000</item>
-        <item name="colorPrimary">#ff0000</item>
-        <item name="colorPrimaryDark">#00ff00</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">#0000ff</item>
         <item name="android:textColorSecondary">#000000</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
         <!-- Customize your theme here. -->
     </style>
     <!-- toolbar弹出菜单样式 -->

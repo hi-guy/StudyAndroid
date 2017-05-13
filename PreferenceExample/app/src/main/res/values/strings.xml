@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PreferenceExample</string>
+    <string name="pref_sync">pref_sync</string>
+    <string name="pref_sync_summ">pref_sync_summ</string>
+    <string name="pref_syncConnectionType">pref_syncConnectionType</string>
+    <array name="pref_syncConnectionTypes_entries">
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+    </array>
+    <array name="pref_syncConnectionTypes_values">
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+        <item>111111</item>
+    </array>
+    <string name="pref_syncConnectionTypes_default">pref_syncConnectionTypes_default</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
